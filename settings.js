@@ -41,7 +41,7 @@ global.socialm = "GitHub: SenuBoy" //ur github or insta name
 global.location = "SriLanka, Kaluthara, Panadura" //ur location
 
 //bot bomdy 
-global.owner = ['94753420144']
+global.owner = ['96181544124']
 global.ownertag = '96181544124' //ur tag number
 global.botname = 'Queen-Melissa-Beta' //ur bot name
 global.linkz = "https://github.com/SenuBoy/Queen-Melissa-Beta" //your theme url which will be displayed on whatsapp
