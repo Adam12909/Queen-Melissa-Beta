@@ -34,23 +34,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94753420144'] //ur owner number
-global.ownername = "SenuBoy" //ur owner name
+global.vcardowner = ['96181544124'] //ur owner number
+global.ownername = "adam" //ur owner name
 global.ytname = "YT: SenuBoy" //ur yt chanel name
 global.socialm = "GitHub: SenuBoy" //ur github or insta name
 global.location = "SriLanka, Kaluthara, Panadura" //ur location
 
 //bot bomdy 
 global.owner = ['94753420144']
-global.ownertag = '94753420144' //ur tag number
+global.ownertag = '96181544124' //ur tag number
 global.botname = 'Queen-Melissa-Beta' //ur bot name
 global.linkz = "https://github.com/SenuBoy/Queen-Melissa-Beta" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/SenuBoy/Queen-Melissa-Beta" //ur website to be displayed
 global.botscript = 'https://github.com/SenuBoy/Queen-Melissa-Beta' //script link
 global.reactmoji = "💖" //ur menu react emoji
-global.themeemoji = "🎸" //ur theme emoji
+global.themeemoji = "🔷" //ur theme emoji
 global.packname = "Queen-Melissa-Beta" //ur sticker watermark packname
-global.author = "SenuBoy" //ur sticker watermark author
+global.author = "adam" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94753420144'] //ur premium numbers
+global.premium = ['96181544124'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -86,14 +86,14 @@ global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⚜'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin! 🇱🇰',
-    botAdmin: 'Bot Must Be Admin First! 🇱🇰',
-    owner: 'This Feature Is Only For Owner! 🇱🇰',
-    group: 'Feature Used Only For Groups! 🇱🇰',
-    private: 'Features Used Only For Private Chat! 🇱🇰',
-    bot: 'This Feature Is Only For Bot 🇱🇰',
-    wait: 'In wait 🇱🇰',
-    linkm: 'Where is the link? 🇱🇰',
+    admin: 'This Feature Is Only For Admin! ',
+    botAdmin: 'Bot Must Be Admin First! ',
+    owner: 'This Feature Is Only For Owner! ',
+    group: 'Feature Used Only For Groups! ',
+    private: 'Features Used Only For Private Chat! ',
+    bot: 'This Feature Is Only For Bot ',
+    wait: ' please wait ',
+    linkm: 'Where is the link? ',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
